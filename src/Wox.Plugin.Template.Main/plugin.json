@@ -1,0 +1,12 @@
+{
+  "ID": "CEA0FDFC6D3B4085823D60DC76F28844",
+  "ActionKeyword": "hc",
+  "Name": "Hello World CSharp",
+  "Description": "Hello World CSharp",
+  "Author": "xxx",
+  "Version": "0.1.0",
+  "Language": "csharp",
+  "Website": "",
+  "ExecuteFileName": "Wox.Plugin.Template.dll",
+  "IcoPath": "app.png"
+}
